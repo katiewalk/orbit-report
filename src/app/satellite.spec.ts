@@ -1,6 +1,6 @@
-/*import { Satellite } from './satellite';
+import { Satellite } from './satellite';
 
-describe('Satellite', () => {
+/*describe('Satellite', () => {
   it('should create an instance', () => {
     expect(new Satellite()).toBeTruthy();
   });
